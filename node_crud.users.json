@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "670681f7ea2a0a2802a88a42"
+  },
+  "name": "Fufufafa",
+  "email": "chilipari@gmail.com",
+  "phone": {
+    "$numberLong": "12398012390"
+  },
+  "image": "image_1728479735229_gibran.jpeg",
+  "created": {
+    "$date": "2024-10-09T13:15:35.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6706a2b3c642621cfa2fe7b4"
+  },
+  "name": "Joko Widodo",
+  "email": "jokowidodo79@gmail.com",
+  "phone": {
+    "$numberLong": "12398012390"
+  },
+  "image": "image_1728488115018_images.jpeg",
+  "created": {
+    "$date": "2024-10-09T15:35:15.037Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67075d5eece32172305910b1"
+  },
+  "name": "Lucky Aditya",
+  "email": "luckyadityab@gmail.com",
+  "phone": "089693110333",
+  "image": "image_1728535902106_Undip.png",
+  "created": {
+    "$date": "2024-10-10T04:51:42.114Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67075e9fb9180564c6c363fa"
+  },
+  "name": "Nahida",
+  "email": "Kusa@gmail.com",
+  "phone": "999111123",
+  "image": "image_1728536223686_forest1.jpg",
+  "created": {
+    "$date": "2024-10-10T04:57:03.700Z"
+  },
+  "__v": 0
+}]
